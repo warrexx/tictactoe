@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/hawarie/Documents/GitHub/tictactoe/build",
+  "command": "/usr/bin/clang++  -I/Users/hawarie/Documents/GitHub/tictactoe/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/tictactoe.dir/src/main.cpp.o -c /Users/hawarie/Documents/GitHub/tictactoe/src/main.cpp",
+  "file": "/Users/hawarie/Documents/GitHub/tictactoe/src/main.cpp",
+  "output": "CMakeFiles/tictactoe.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/hawarie/Documents/GitHub/tictactoe/build",
+  "command": "/usr/bin/clang++  -I/Users/hawarie/Documents/GitHub/tictactoe/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/tictactoe.dir/src/Game.cpp.o -c /Users/hawarie/Documents/GitHub/tictactoe/src/Game.cpp",
+  "file": "/Users/hawarie/Documents/GitHub/tictactoe/src/Game.cpp",
+  "output": "CMakeFiles/tictactoe.dir/src/Game.cpp.o"
+},
+{
+  "directory": "/Users/hawarie/Documents/GitHub/tictactoe/build",
+  "command": "/usr/bin/clang++  -I/Users/hawarie/Documents/GitHub/tictactoe/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/tictactoe.dir/src/Player.cpp.o -c /Users/hawarie/Documents/GitHub/tictactoe/src/Player.cpp",
+  "file": "/Users/hawarie/Documents/GitHub/tictactoe/src/Player.cpp",
+  "output": "CMakeFiles/tictactoe.dir/src/Player.cpp.o"
+},
+{
+  "directory": "/Users/hawarie/Documents/GitHub/tictactoe/build",
+  "command": "/usr/bin/clang++  -I/Users/hawarie/Documents/GitHub/tictactoe/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -o CMakeFiles/tictactoe.dir/src/Board.cpp.o -c /Users/hawarie/Documents/GitHub/tictactoe/src/Board.cpp",
+  "file": "/Users/hawarie/Documents/GitHub/tictactoe/src/Board.cpp",
+  "output": "CMakeFiles/tictactoe.dir/src/Board.cpp.o"
+}
+]

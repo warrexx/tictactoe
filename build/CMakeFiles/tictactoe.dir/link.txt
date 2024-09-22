@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tictactoe.dir/src/main.cpp.o CMakeFiles/tictactoe.dir/src/Game.cpp.o CMakeFiles/tictactoe.dir/src/Player.cpp.o CMakeFiles/tictactoe.dir/src/Board.cpp.o -o tictactoe
